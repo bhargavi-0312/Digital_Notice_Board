@@ -42,13 +42,7 @@ TECH STACK
 
 Installation & Setup
 
-1. Clone the repository
-
-git clone https://github.com/yourusername/digital-notice-board.git
-
-cd digital-notice-board
-
-2. Create and activate a virtual environment
+1. Create and activate a virtual environment
 
 python -m venv venv
 
@@ -57,14 +51,14 @@ source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 
 
-3. Install dependencies
+2. Install dependencies
 
 pip install -r requirements.txt
 
 
-4. Configure environment variables
+3. Configure environment variables
 
-5. Create a .env file with necessary variables:
+4. Create a .env file with necessary variables:
 
 FLASK_APP=app.py
 
