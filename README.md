@@ -4,7 +4,7 @@ DIGITAL NOTOCE BOARD
 
 The Digital Notice Board is a modern, Flask-powered web application designed to streamline the way institutions manage and display public announcements. Unlike traditional Google Sheets or Forms-based systems, this platform offers full backend control, secure data handling, and scalable deployment options.
 
-KEY FEATURES
+-->KEY FEATURES
 
 ->Secure Admin Portal
 
@@ -25,12 +25,12 @@ KEY FEATURES
 ->Works seamlessly across devices (desktop, tablet, mobile) and supports offline access via service workers.
 
 
-API ACCESS
+-->API ACCESS
 
 Lightweight REST API to fetch notice data as JSON, enabling integration with mobile apps or third-party platforms.
 
 
-TECH STACK
+-->TECH STACK
 
 ->Backend: Python, Flask
 
@@ -39,7 +39,7 @@ TECH STACK
 ->Frontend: HTML, CSS, Bootstrap, JavaScript
 
 
-Installation & Setup
+-->Installation & Setup
 
 1. Create and activate a virtual environment
 
@@ -84,7 +84,7 @@ flask run
 Access the app at http://localhost:5000
 
 
-Usage
+-->Usage
 
 Admin Login:
 
@@ -103,7 +103,7 @@ Preview Notices:
 Interactive poster view to visualize announcements before publishing.
 
 
-Deployment
+-->Deployment
 
 Local Deployment: Use flask run 
 
