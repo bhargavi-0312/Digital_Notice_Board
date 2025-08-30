@@ -107,5 +107,14 @@ Interactive poster view to visualize announcements before publishing.
 
 Local Deployment: Use flask run 
 
+-->OUTPUT
+![Output1](https://github.com/user-attachments/assets/1a3c998b-e480-42ab-9b5f-198cbea8dd46)
+
+![Output2](https://github.com/user-attachments/assets/9d3ed918-9370-4f99-98a6-f966b373921e)
+
+![Output3](https://github.com/user-attachments/assets/605a69c2-58a1-4381-8779-16187558bec5)
+
+![Output4](https://github.com/user-attachments/assets/8ff54b2e-b481-4c83-9ee1-46ef02d86d70)
+
 
 
